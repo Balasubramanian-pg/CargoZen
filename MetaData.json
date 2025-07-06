@@ -1,0 +1,122 @@
+[
+    {
+        "source_url": "refs/heads/main/Dataset/2023-04.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-04.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-05.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-05.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-06.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-06.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-07.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-07.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-08.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-08.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-09.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-09.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-10.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-10.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-11.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-11.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2023-12.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "23-12.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-01.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-01.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-02.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-02.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-03.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-03.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-04.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-04.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-05.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-05.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-06.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-06.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-07.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-07.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-08.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-08.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-09.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-09.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-10.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-10.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-11.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-11.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2024-12.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "24-12.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2025-01.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "25-01.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2025-02.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "25-02.csv"
+    },
+    {
+        "source_url": "refs/heads/main/Dataset/2025-03.json",
+        "sink_folder": "CargoZen",
+        "sink_file": "25-03.csv"
+    }
+]
