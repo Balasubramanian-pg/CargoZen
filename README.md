@@ -1,5 +1,3 @@
-# **Minimal & Cool README**
-
 ## Project: Operational P\&L Lakehouse
 
 ### Overview
