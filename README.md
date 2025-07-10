@@ -35,5 +35,3 @@ This project establishes a month-wise ingestion pipeline from JSON sources into 
 6. **Forecasting**
 
    * Predictive analytics on fuel and variable costs
-
----
