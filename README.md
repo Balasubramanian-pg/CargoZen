@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
----
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -41,8 +39,6 @@
 - [Contributors](#contributors)
 - [License](#license)
 
----
-
 ## Overview
 
 CargoZen is a lightweight analytics framework focused on transforming operational data into structured, decision-ready intelligence. It prioritizes clarity, speed, and maintainability while enabling documentation-driven engineering.
@@ -55,8 +51,6 @@ Core design philosophy:
 - Tool-agnostic implementation
 - Analytics scalability
 
----
-
 ## Hero Features
 
 - Structured analytics repository design
@@ -64,8 +58,6 @@ Core design philosophy:
 - Documentation automation friendly
 - BI pipeline ready
 - Portable and extensible architecture
-
----
 
 ## Getting Started
 
